@@ -1,0 +1,10 @@
+import os
+
+BOT_TOKEN = os.getenv("BOT_TOKEN", "8581545651:AAFzyM3RdKtzz3HRmHg45bVUGQ5ajKBcZDc")
+CHANNEL_USERNAME = os.getenv("CHANNEL_USERNAME", "@IG_CC_SELLERS")
+ADMIN_ID = int(os.getenv("ADMIN_ID", 1295478989))
+
+REWARD_NEW_USER = int(os.getenv("REWARD_NEW_USER", 2))
+REWARD_REFERRAL = int(os.getenv("REWARD_REFERRAL", 3))
+
+SEPARATOR = os.getenv("SEPARATOR", "---")
