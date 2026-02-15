@@ -1,0 +1,31 @@
+{
+    "1295478989": {
+        "username": "Annonymous_Cracker",
+        "registered": true,
+        "joined": true,
+        "referrals": 0,
+        "referred_by": null,
+        "reward_taken": 0
+    },
+    "5849452141": {
+        "username": "TheVibeCoder01",
+        "registered": true,
+        "joined": true,
+        "referrals": 0,
+        "referred_by": null,
+        "reward_taken": 2,
+        "reward_history": [
+            "\ud835\ude3c\ud835\ude4b\ud835\ude4b\ud835\ude4d\ud835\ude4a\ud835\ude51\ud835\ude40\ud835\ude3f \u2705\n\n\ud835\uddd6\ud835\uddd6 \u21fe 4059986096601077|09|2028|537\n\ud835\uddda\ud835\uddee\ud835\ude01\ud835\uddf2\ud835\ude6c\ud835\ude56\ud835\ude54 \u21fe Stripe Auth\n\ud835\udde5\ud835\uddf2\ud835\ude00\ud835\uddfd\ud835\uddfc\ud835\uddfb\ud835\ude00\ud835\uddf2 \u21fe Card charged successfully\n\n\ud835\uddd5\ud835\udddc\ud835\udde1 \ud835\udddc\ud835\uddfb\ud835\uddf3\ud835\uddfc \u279c VISA - DEBIT - CLASSIC\n\ud835\uddd5\ud835\uddee\ud835\uddfb\ud835\uddf8 \u279c BANK SIMPANAN NASIONAL\n\ud835\uddd6\ud835\uddfc\ud835\ude02\ud835\uddfb\ud835\ude01\ud835\uddff\ud835\ude06 \u279c MY \ud83c\uddf2\ud83c\uddfe",
+            "--\n\ud835\ude3c\ud835\ude4b\ud835\ude4b\ud835\ude4d\ud835\ude4a\ud835\ude51\ud835\ude40\ud835\ude3f \u2705\n\n\ud835\uddd6\ud835\uddd6 \u21fe 6573665591064120|08|2029|492\n\ud835\uddda\ud835\uddee\ud835\ude01\ud835\uddf2\ud835\ude6c\ud835\ude56\ud835\ude54 \u21fe Stripe Auth\n\ud835\udde5\ud835\uddf2\ud835\ude00\ud835\uddfd\ud835\uddfc\ud835\uddfb\ud835\ude00\ud835\uddf2 \u21fe Card charged successfully\n\n\ud835\uddd5\ud835\udddc\ud835\udde1 \ud835\udddc\ud835\uddfb\ud835\uddf3\ud835\uddfc \u279c DISCOVER - DEBIT - PERSONAL\n\ud835\uddd5\ud835\uddee\ud835\uddfb\ud835\uddf8 \u279c BANK OF AMERICA\n\ud835\uddd6\ud835\uddfc\ud835\ude02\ud835\uddfb\ud835\ude01\ud835\uddff\ud835\ude06 \u279c TR \ud83c\uddf9\ud83c\uddf7"
+        ]
+    },
+    "8496943061": {
+        "username": "CvvGalaxy",
+        "registered": false,
+        "joined": false,
+        "referrals": 0,
+        "referred_by": null,
+        "reward_taken": 0,
+        "reward_history": []
+    }
+}
